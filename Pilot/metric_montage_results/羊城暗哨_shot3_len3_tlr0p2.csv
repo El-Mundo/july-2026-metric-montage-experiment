@@ -1,0 +1,3 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+羊城暗哨,272,274,3,3047.582,3068.225,20.643,3.0,0.2,8.801;2.84;9.001,3;1;3,9.0;3.0;9.0,-0.199;-0.16;0.001,0.199,0.12,/Volumes/Extreme SSD/Video/Chinese1949-66/羊城暗哨.mp4
+羊城暗哨,446,448,3,4899.959,4935.844,35.885,3.0,0.2,2.92;12.042;20.923,1;4;7,3.0;12.0;21.0,-0.08;0.042;-0.077,0.08,0.066,/Volumes/Extreme SSD/Video/Chinese1949-66/羊城暗哨.mp4

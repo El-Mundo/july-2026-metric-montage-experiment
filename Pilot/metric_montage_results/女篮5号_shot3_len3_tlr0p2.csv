@@ -1,0 +1,2 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+女篮5号,53,55,3,406.056,417.658,11.602,3.0,0.2,2.84;2.92;5.841,1;1;2,3.0;3.0;6.0,-0.16;-0.08;-0.159,0.16,0.133,/Volumes/Extreme SSD/Video/Chinese1949-66/女篮5号.mp4

@@ -1,0 +1,2 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+农家乐,166,168,3,4613.48,4625.44,11.96,3.0,0.2,3.08;2.92;5.96,1;1;2,3.0;3.0;6.0,0.08;-0.08;-0.04,0.08,0.067,/Volumes/Extreme SSD/Video/Chinese1949-66/农家乐.mp4

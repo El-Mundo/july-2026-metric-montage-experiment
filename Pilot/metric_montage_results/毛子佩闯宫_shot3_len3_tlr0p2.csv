@@ -1,0 +1,2 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+毛子佩闯宫,5,7,3,171.703,225.75,54.047,3.0,0.2,33.164;18.042;2.84,11;6;1,33.0;18.0;3.0,0.164;0.042;-0.16,0.164,0.122,/Volumes/Extreme SSD/Video/Chinese1949-66/毛子佩闯宫.mp4

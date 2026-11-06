@@ -1,0 +1,2 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+暑假的礼物,118,120,3,1958.906,2012.834,53.928,3.0,0.2,27.084;8.921;17.922,9;3;6,27.0;9.0;18.0,0.084;-0.079;-0.078,0.084,0.08,/Volumes/Extreme SSD/Video/Chinese1949-66/暑假的礼物.mp4

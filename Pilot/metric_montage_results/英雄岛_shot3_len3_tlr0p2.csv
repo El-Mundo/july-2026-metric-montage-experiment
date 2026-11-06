@@ -1,0 +1,2 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+英雄岛,336,339,4,2840.627,2861.75,21.123,3.0,0.2,8.841;3.16;3.12;6.001,3;1;1;2,9.0;3.0;3.0;6.0,-0.159;0.16;0.12;0.001,0.16,0.11,/Volumes/Extreme SSD/Video/Chinese1949-66/英雄岛.mp4

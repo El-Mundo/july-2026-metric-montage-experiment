@@ -1,0 +1,2 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+女飞行员,478,480,3,6338.906,6435.079,96.173,3.0,0.2,30.124;38.885;27.164,10;13;9,30.0;39.0;27.0,0.124;-0.115;0.164,0.164,0.134,/Volumes/Extreme SSD/Video/Chinese1949-66/女飞行员.mp4

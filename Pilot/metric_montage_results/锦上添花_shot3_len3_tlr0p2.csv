@@ -1,0 +1,2 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+锦上添花,315,317,3,3782.762,3800.765,18.003,3.0,0.2,9.001;3.0;6.001,3;1;2,9.0;3.0;6.0,0.001;0.0;0.001,0.001,0.001,/Volumes/Extreme SSD/Video/Chinese1949-66/锦上添花.mp4

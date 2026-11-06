@@ -1,0 +1,2 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+李双双,113,115,3,3542.09,3574.855,32.765,3.0,0.2,8.881;14.842;9.041,3;5;3,9.0;15.0;9.0,-0.119;-0.158;0.041,0.158,0.106,/Volumes/Extreme SSD/Video/Chinese1949-66/李双双.mp4

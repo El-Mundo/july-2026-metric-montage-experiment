@@ -1,0 +1,2 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+向阳花开,173,175,3,2469.664,2478.666,9.002,3.0,0.2,3.0;3.0;3.0,1;1;1,3.0;3.0;3.0,0.0;0.0;0.0,0.0,0.0,/Volumes/Extreme SSD/Video/Chinese1949-66/向阳花开.mp4

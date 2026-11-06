@@ -1,0 +1,2 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+千万不要忘记,411,414,4,5091.243,5112.406,21.163,3.0,0.2,5.841;9.081;3.16;3.08,2;3;1;1,6.0;9.0;3.0;3.0,-0.159;0.081;0.16;0.08,0.16,0.12,/Volumes/Extreme SSD/Video/Chinese1949-66/千万不要忘记.mp4

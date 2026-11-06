@@ -1,0 +1,2 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+刘明珠,266,268,3,5825.065,5876.072,51.007,3.0,0.2,6.041;15.042;29.924,2;5;10,6.0;15.0;30.0,0.041;0.042;-0.076,0.076,0.053,/Volumes/Extreme SSD/Video/Chinese1949-66/刘明珠.mp4

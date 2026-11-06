@@ -1,0 +1,2 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+北国江南,166,168,3,3587.211,3607.934,20.723,3.0,0.2,5.881;8.841;6.001,2;3;2,6.0;9.0;6.0,-0.119;-0.159;0.001,0.159,0.093,/Volumes/Extreme SSD/Video/Chinese1949-66/北国江南.mp4

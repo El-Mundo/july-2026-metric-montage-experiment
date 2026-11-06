@@ -1,0 +1,9 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,tolerance_sec,all_matching_bases,matching_base_count,base_ambiguity_flag,best_base_length_sec,best_durations_sec,best_multiples,best_expected_sec,best_errors_sec,best_max_abs_error_sec,best_mean_abs_error_sec,best_max_multiple,best_mean_multiple,compact_candidate_flag,low_information_base_flag,priority_score,video_path
+春天来了,31,33,3,633.4,690.24,56.84,0.2,1.0;3.0,2,False,3.0,12.0;21.0;23.84,4;7;8,12.0;21.0;24.0,0.0;0.0;-0.16,0.16,0.053,8,6.333,False,False,26.075,/Volumes/Extreme SSD/Video/Chinese1949-66/春天来了.mp4
+春天来了,239,241,3,4609.08,4686.92,77.84,0.2,1.0;2.0,2,False,2.0,38.04;38.0;1.8,19;19;1,38.0;38.0;2.0,0.04;0.0;-0.2,0.2,0.08,19,13.0,False,False,3.0,/Volumes/Extreme SSD/Video/Chinese1949-66/春天来了.mp4
+春天来了,152,154,3,3070.68,3136.68,66.0,0.2,1.0;2.0,2,False,2.0,4.0;52.16;9.84,2;26;5,4.0;52.0;10.0,0.0;0.16;-0.16,0.16,0.107,26,11.0,False,False,-11.275,/Volumes/Extreme SSD/Video/Chinese1949-66/春天来了.mp4
+春天来了,181,183,3,3650.88,3670.92,20.04,0.2,1.0,1,False,1.0,4.92;8.12;7.0,5;8;7,5.0;8.0;7.0,-0.08;0.12;0.0,0.12,0.067,8,6.667,False,True,-28.875,/Volumes/Extreme SSD/Video/Chinese1949-66/春天来了.mp4
+春天来了,220,222,3,4383.92,4409.0,25.08,0.2,1.0,1,False,1.0,2.88;10.04;12.16,3;10;12,3.0;10.0;12.0,-0.12;0.04;0.16,0.16,0.107,12,8.333,False,True,-38.275,/Volumes/Extreme SSD/Video/Chinese1949-66/春天来了.mp4
+春天来了,142,144,3,2861.36,2891.16,29.8,0.2,1.0,1,False,1.0,11.08;13.88;4.84,11;14;5,11.0;14.0;5.0,0.08;-0.12;-0.16,0.16,0.12,14,10.0,False,True,-42.6,/Volumes/Extreme SSD/Video/Chinese1949-66/春天来了.mp4
+春天来了,130,132,3,2499.8,2531.72,31.92,0.2,1.0,1,False,1.0,6.88;8.04;17.0,7;8;17,7.0;8.0;17.0,-0.12;0.04;0.0,0.12,0.053,17,10.667,False,True,-46.525,/Volumes/Extreme SSD/Video/Chinese1949-66/春天来了.mp4
+春天来了,274,276,3,5401.6,5464.48,62.88,0.2,1.0,1,False,1.0,8.84;46.92;7.12,9;47;7,9.0;47.0;7.0,-0.16;-0.08;0.12,0.16,0.12,47,21.0,False,True,-108.6,/Volumes/Extreme SSD/Video/Chinese1949-66/春天来了.mp4

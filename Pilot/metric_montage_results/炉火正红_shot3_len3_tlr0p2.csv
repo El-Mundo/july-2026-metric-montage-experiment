@@ -1,0 +1,2 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+炉火正红,104,106,3,1590.259,1619.983,29.724,3.0,0.2,6.121;11.802;11.802,2;4;4,6.0;12.0;12.0,0.121;-0.198;-0.198,0.198,0.172,/Volumes/Extreme SSD/Video/Chinese1949-66/炉火正红.mp4

@@ -1,0 +1,2 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+一贯害人道,542,544,3,6266.464,6284.426,17.962,3.0,0.2,12.122;3.0;2.84,4;1;1,12.0;3.0;3.0,0.122;0.0;-0.16,0.16,0.094,/Volumes/Extreme SSD/Video/Chinese1949-66/一贯害人道.mp4

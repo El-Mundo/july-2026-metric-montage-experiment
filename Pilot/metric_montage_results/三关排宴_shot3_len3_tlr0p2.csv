@@ -1,0 +1,3 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+三关排宴,137,139,3,3237.728,3267.612,29.884,3.0,0.2,6.001;20.803;3.08,2;7;1,6.0;21.0;3.0,0.001;-0.197;0.08,0.197,0.093,/Volumes/Extreme SSD/Video/Chinese1949-66/三关排宴.mp4
+三关排宴,580,582,3,6130.968,6281.148,150.18,3.0,0.2,3.0;141.18;6.001,1;47;2,3.0;141.0;6.0,0.0;0.18;0.001,0.18,0.06,/Volumes/Extreme SSD/Video/Chinese1949-66/三关排宴.mp4

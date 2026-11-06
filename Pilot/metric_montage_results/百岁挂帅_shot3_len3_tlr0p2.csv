@@ -1,0 +1,6 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+百岁挂帅,4,7,4,8.001,26.004,18.003,3.0,0.2,9.001;3.0;3.0;3.0,3;1;1;1,9.0;3.0;3.0;3.0,0.001;0.0;0.0;0.0,0.001,0.0,/Volumes/Extreme SSD/Video/Chinese1949-66/百岁挂帅.mp4
+百岁挂帅,158,160,3,692.813,701.815,9.002,3.0,0.2,3.0;3.0;3.0,1;1;1,3.0;3.0;3.0,0.0;0.0;0.0,0.0,0.0,/Volumes/Extreme SSD/Video/Chinese1949-66/百岁挂帅.mp4
+百岁挂帅,404,406,3,2107.804,2134.528,26.724,3.0,0.2,2.92;5.881;17.922,1;2;6,3.0;6.0;18.0,-0.08;-0.119;-0.078,0.119,0.092,/Volumes/Extreme SSD/Video/Chinese1949-66/百岁挂帅.mp4
+百岁挂帅,459,462,4,2412.526,2430.648,18.122,3.0,0.2,3.0;3.0;3.0;9.121,1;1;1;3,3.0;3.0;3.0;9.0,0.0;0.0;0.0;0.121,0.121,0.03,/Volumes/Extreme SSD/Video/Chinese1949-66/百岁挂帅.mp4
+百岁挂帅,471,473,3,2481.375,2502.378,21.003,3.0,0.2,3.16;14.842;3.0,1;5;1,3.0;15.0;3.0,0.16;-0.158;0.0,0.16,0.106,/Volumes/Extreme SSD/Video/Chinese1949-66/百岁挂帅.mp4

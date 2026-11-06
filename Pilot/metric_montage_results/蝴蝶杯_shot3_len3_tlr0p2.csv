@@ -1,0 +1,2 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+蝴蝶杯,150,152,3,6189.722,6411.952,222.23,3.0,0.2,110.975;39.165;72.09,37;13;24,111.0;39.0;72.0,-0.025;0.165;0.09,0.165,0.093,/Volumes/Extreme SSD/Video/Chinese1949-66/蝴蝶杯.mp4

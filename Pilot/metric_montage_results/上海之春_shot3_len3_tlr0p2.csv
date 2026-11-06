@@ -1,0 +1,2 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+上海之春,365,367,3,5133.761,5154.643,20.882,3.0,0.2,2.92;2.92;15.042,1;1;5,3.0;3.0;15.0,-0.08;-0.08;0.042,0.08,0.067,/Volumes/Extreme SSD/Video/Chinese1949-66/上海之春.mp4

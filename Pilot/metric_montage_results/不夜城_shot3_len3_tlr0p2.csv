@@ -1,0 +1,5 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+不夜城,103,105,3,1008.578,1062.505,53.927,3.0,0.2,35.805;15.002;3.12,12;5;1,36.0;15.0;3.0,-0.195;0.002;0.12,0.195,0.106,/Volumes/Extreme SSD/Video/Chinese1949-66/不夜城.mp4
+不夜城,381,383,3,3493.678,3520.802,27.124,3.0,0.2,5.961;15.002;6.161,2;5;2,6.0;15.0;6.0,-0.039;0.002;0.161,0.161,0.067,/Volumes/Extreme SSD/Video/Chinese1949-66/不夜城.mp4
+不夜城,527,530,4,4879.308,4899.95,20.642,3.0,0.2,8.961;5.801;2.84;3.04,3;2;1;1,9.0;6.0;3.0;3.0,-0.039;-0.199;-0.16;0.04,0.199,0.109,/Volumes/Extreme SSD/Video/Chinese1949-66/不夜城.mp4
+不夜城,552,554,3,5075.494,5117.74,42.246,3.0,0.2,21.163;6.041;15.042,7;2;5,21.0;6.0;15.0,0.163;0.041;0.042,0.163,0.082,/Volumes/Extreme SSD/Video/Chinese1949-66/不夜城.mp4

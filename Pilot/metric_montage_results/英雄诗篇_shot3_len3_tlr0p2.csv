@@ -1,0 +1,2 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+英雄诗篇,274,276,3,2299.92,2324.16,24.24,3.0,0.2,12.16;6.12;5.96,4;2;2,12.0;6.0;6.0,0.16;0.12;-0.04,0.16,0.107,/Volumes/Extreme SSD/Video/Chinese1949-66/英雄诗篇.mp4

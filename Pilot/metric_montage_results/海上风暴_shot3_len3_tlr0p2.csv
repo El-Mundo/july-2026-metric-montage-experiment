@@ -1,0 +1,2 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+海上风暴,734,736,3,3926.355,3938.277,11.922,3.0,0.2,5.921;3.0;3.0,2;1;1,6.0;3.0;3.0,-0.079;0.0;0.0,0.079,0.026,/Volumes/Extreme SSD/Video/Chinese1949-66/海上风暴.mp4

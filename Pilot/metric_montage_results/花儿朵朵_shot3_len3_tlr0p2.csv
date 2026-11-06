@@ -1,0 +1,2 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+花儿朵朵,26,28,3,307.643,421.618,113.975,3.0,0.2,8.961;96.093;8.921,3;32;3,9.0;96.0;9.0,-0.039;0.093;-0.079,0.093,0.07,/Volumes/Extreme SSD/Video/Chinese1949-66/花儿朵朵.mp4

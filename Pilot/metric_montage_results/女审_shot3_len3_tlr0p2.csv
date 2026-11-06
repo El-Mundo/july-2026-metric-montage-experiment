@@ -1,0 +1,4 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+女审,163,166,4,1231.645,1243.647,12.002,3.0,0.2,3.0;3.0;3.0;3.0,1;1;1;1,3.0;3.0;3.0;3.0,0.0;0.0;0.0;0.0,0.0,0.0,/Volumes/Extreme SSD/Video/Chinese1949-66/女审.mp4
+女审,780,782,3,4242.449,4260.451,18.002,3.0,0.2,9.161;5.841;3.0,3;2;1,9.0;6.0;3.0,0.161;-0.159;0.0,0.161,0.107,/Volumes/Extreme SSD/Video/Chinese1949-66/女审.mp4
+女审,1188,1191,4,5591.31,5606.152,14.842,3.0,0.2,3.0;5.841;3.0;3.0,1;2;1;1,3.0;6.0;3.0;3.0,0.0;-0.159;0.0;0.0,0.159,0.04,/Volumes/Extreme SSD/Video/Chinese1949-66/女审.mp4

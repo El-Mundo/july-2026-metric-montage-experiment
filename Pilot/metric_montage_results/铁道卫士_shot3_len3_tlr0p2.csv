@@ -1,0 +1,2 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+铁道卫士,472,474,3,5054.631,5102.878,48.247,3.0,0.2,6.161;32.964;9.121,2;11;3,6.0;33.0;9.0,0.161;-0.036;0.121,0.161,0.106,/Volumes/Extreme SSD/Video/Chinese1949-66/铁道卫士.mp4

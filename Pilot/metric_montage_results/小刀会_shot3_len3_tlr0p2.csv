@@ -1,0 +1,2 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+小刀会,265,267,3,1560.646,1572.488,11.842,3.0,0.2,3.0;3.0;5.841,1;1;2,3.0;3.0;6.0,0.0;0.0;-0.159,0.159,0.053,/Volumes/Extreme SSD/Video/Chinese1949-66/小刀会.mp4

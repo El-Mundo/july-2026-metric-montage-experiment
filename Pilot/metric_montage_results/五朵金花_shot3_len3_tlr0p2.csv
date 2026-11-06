@@ -1,0 +1,2 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+五朵金花,194,196,3,2129.377,2180.224,50.847,3.0,0.2,17.802;27.004;6.041,6;9;2,18.0;27.0;6.0,-0.198;0.004;0.041,0.198,0.081,/Volumes/Extreme SSD/Video/Chinese1949-66/五朵金花.mp4

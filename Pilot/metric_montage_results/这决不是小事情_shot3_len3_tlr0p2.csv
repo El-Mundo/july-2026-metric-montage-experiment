@@ -1,0 +1,2 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+这决不是小事情,34,36,3,561.0,656.96,95.96,3.0,0.2,33.08;2.84;60.04,11;1;20,33.0;3.0;60.0,0.08;-0.16;0.04,0.16,0.093,/Volumes/Extreme SSD/Video/Chinese1949-66/这决不是小事情.mp4

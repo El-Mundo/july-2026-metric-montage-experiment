@@ -1,0 +1,2 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+五更寒,103,105,3,4341.6,4692.92,351.32,3.0,0.2,24.2;74.96;252.16,8;25;84,24.0;75.0;252.0,0.2;-0.04;0.16,0.2,0.133,/Volumes/Extreme SSD/Video/Chinese1949-66/五更寒.mp4

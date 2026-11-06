@@ -1,0 +1,2 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+借东风,180,183,4,4004.951,4055.638,50.687,3.0,0.2,29.844;9.161;5.841;5.841,10;3;2;2,30.0;9.0;6.0;6.0,-0.156;0.161;-0.159;-0.159,0.161,0.159,/Volumes/Extreme SSD/Video/Chinese1949-66/借东风.mp4

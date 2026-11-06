@@ -1,0 +1,2 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+东方红,191,193,3,3223.031,3249.834,26.803,3.0,0.2,5.921;2.84;18.042,2;1;6,6.0;3.0;18.0,-0.079;-0.16;0.042,0.16,0.094,/Volumes/Extreme SSD/Video/Chinese1949-66/东方红.mp4

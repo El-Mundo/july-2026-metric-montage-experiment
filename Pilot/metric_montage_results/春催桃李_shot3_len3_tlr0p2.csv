@@ -1,0 +1,2 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+春催桃李,51,54,4,1980.355,2016.44,36.085,3.0,0.2,9.081;15.122;6.041;5.841,3;5;2;2,9.0;15.0;6.0;6.0,0.081;0.122;0.041;-0.159,0.159,0.101,/Volumes/Extreme SSD/Video/Chinese1949-66/春催桃李.mp4

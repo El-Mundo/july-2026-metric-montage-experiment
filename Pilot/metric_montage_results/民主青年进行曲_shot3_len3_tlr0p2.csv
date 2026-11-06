@@ -1,0 +1,2 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+民主青年进行曲,581,583,3,5621.36,5639.28,17.92,3.0,0.2,8.8;6.08;3.04,3;2;1,9.0;6.0;3.0,-0.2;0.08;0.04,0.2,0.107,/Volumes/Extreme SSD/Video/Chinese1949-66/民主青年进行曲.mp4

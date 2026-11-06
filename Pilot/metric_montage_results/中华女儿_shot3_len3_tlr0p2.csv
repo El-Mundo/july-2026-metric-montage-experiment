@@ -1,0 +1,4 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+中华女儿,225,228,4,1952.32,1982.12,29.8,3.0,0.2,2.92;5.96;14.92;6.0,1;2;5;2,3.0;6.0;15.0;6.0,-0.08;-0.04;-0.08;0.0,0.08,0.05,/Volumes/Extreme SSD/Video/Chinese1949-66/中华女儿.mp4
+中华女儿,301,303,3,2680.6,2710.76,30.16,3.0,0.2,9.16;8.96;12.04,3;3;4,9.0;9.0;12.0,0.16;-0.04;0.04,0.16,0.08,/Volumes/Extreme SSD/Video/Chinese1949-66/中华女儿.mp4
+中华女儿,526,529,4,4658.6,4670.88,12.28,3.0,0.2,2.88;3.16;3.12;3.12,1;1;1;1,3.0;3.0;3.0;3.0,-0.12;0.16;0.12;0.12,0.16,0.13,/Volumes/Extreme SSD/Video/Chinese1949-66/中华女儿.mp4

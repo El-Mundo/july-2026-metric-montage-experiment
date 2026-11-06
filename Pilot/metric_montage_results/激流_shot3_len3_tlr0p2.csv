@@ -1,0 +1,2 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+激流,308,310,3,5529.517,5541.518,12.001,3.0,0.2,3.0;3.0;6.001,1;1;2,3.0;3.0;6.0,0.0;0.0;0.001,0.001,0.0,/Volumes/Extreme SSD/Video/Chinese1949-66/激流.mp4

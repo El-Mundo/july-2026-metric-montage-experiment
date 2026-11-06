@@ -1,0 +1,2 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+沙漠追匪记,359,362,4,3590.72,3641.92,51.2,3.0,0.2,9.12;24.12;2.88;15.08,3;8;1;5,9.0;24.0;3.0;15.0,0.12;0.12;-0.12;0.08,0.12,0.11,/Volumes/Extreme SSD/Video/Chinese1949-66/沙漠追匪记.mp4

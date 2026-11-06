@@ -1,0 +1,2 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+斩断魔爪,255,257,3,2923.721,2992.57,68.849,3.0,0.2,9.001;35.805;24.043,3;12;8,9.0;36.0;24.0,0.001;-0.195;0.043,0.195,0.08,/Volumes/Extreme SSD/Video/Chinese1949-66/斩断魔爪.mp4

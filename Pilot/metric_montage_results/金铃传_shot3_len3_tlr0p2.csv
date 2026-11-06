@@ -1,0 +1,2 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+金铃传,121,123,3,3277.84,3289.6,11.76,3.0,0.2,2.92;2.88;5.96,1;1;2,3.0;3.0;6.0,-0.08;-0.12;-0.04,0.12,0.08,/Volumes/Extreme SSD/Video/Chinese1949-66/金铃传.mp4

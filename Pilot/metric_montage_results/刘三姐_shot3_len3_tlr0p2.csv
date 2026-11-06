@@ -1,0 +1,2 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+刘三姐,545,548,4,5099.734,5133.059,33.325,3.0,0.2,3.12;6.081;2.96;21.163,1;2;1;7,3.0;6.0;3.0;21.0,0.12;0.081;-0.04;0.163,0.163,0.101,/Volumes/Extreme SSD/Video/Chinese1949-66/刘三姐.mp4

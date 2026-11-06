@@ -1,0 +1,3 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+土地,299,301,3,2644.08,2662.12,18.04,3.0,0.2,11.8;3.16;3.08,4;1;1,12.0;3.0;3.0,-0.2;0.16;0.08,0.2,0.147,/Volumes/Extreme SSD/Video/Chinese1949-66/土地.mp4
+土地,331,333,3,2940.0,2999.84,59.84,3.0,0.2,35.84;5.88;18.12,12;2;6,36.0;6.0;18.0,-0.16;-0.12;0.12,0.16,0.133,/Volumes/Extreme SSD/Video/Chinese1949-66/土地.mp4

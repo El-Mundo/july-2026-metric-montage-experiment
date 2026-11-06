@@ -1,0 +1,2 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+花好月圆,245,247,3,2861.303,2918.071,56.768,3.0,0.2,27.044;5.801;23.923,9;2;8,27.0;6.0;24.0,0.044;-0.199;-0.077,0.199,0.107,/Volumes/Extreme SSD/Video/Chinese1949-66/花好月圆.mp4

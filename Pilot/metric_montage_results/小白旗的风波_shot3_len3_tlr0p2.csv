@@ -1,0 +1,2 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+小白旗的风波,138,140,3,2806.665,2851.591,44.926,3.0,0.2,5.921;15.162;23.843,2;5;8,6.0;15.0;24.0,-0.079;0.162;-0.157,0.162,0.133,/Volumes/Extreme SSD/Video/Chinese1949-66/小白旗的风波.mp4

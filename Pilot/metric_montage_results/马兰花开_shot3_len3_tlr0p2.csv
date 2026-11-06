@@ -1,0 +1,2 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+马兰花开,165,167,3,1633.76,1657.68,23.92,3.0,0.2,3.08;8.88;11.96,1;3;4,3.0;9.0;12.0,0.08;-0.12;-0.04,0.12,0.08,/Volumes/Extreme SSD/Video/Chinese1949-66/马兰花开.mp4

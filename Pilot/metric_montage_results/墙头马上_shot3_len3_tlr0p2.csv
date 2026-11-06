@@ -1,0 +1,2 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+墙头马上,264,266,3,5210.429,5222.51,12.081,3.0,0.2,2.96;3.04;6.081,1;1;2,3.0;3.0;6.0,-0.04;0.04;0.081,0.081,0.054,/Volumes/Extreme SSD/Video/Chinese1949-66/墙头马上.mp4

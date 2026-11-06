@@ -1,0 +1,2 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+宝山之歌,38,40,3,684.76,993.88,309.12,3.0,0.2,6.04;297.16;5.92,2;99;2,6.0;297.0;6.0,0.04;0.16;-0.08,0.16,0.093,/Volumes/Extreme SSD/Video/Chinese1949-66/宝山之歌.mp4

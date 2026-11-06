@@ -1,0 +1,2 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+三滴血,296,298,3,2823.993,2844.996,21.003,3.0,0.2,12.082;3.08;5.841,4;1;2,12.0;3.0;6.0,0.082;0.08;-0.159,0.159,0.107,/Volumes/Extreme SSD/Video/Chinese1949-66/三滴血.mp4

@@ -1,0 +1,2 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+三朵小红花,103,105,3,1726.113,1752.996,26.883,3.0,0.2,18.042;3.04;5.801,6;1;2,18.0;3.0;6.0,0.042;0.04;-0.199,0.199,0.094,/Volumes/Extreme SSD/Video/Chinese1949-66/三朵小红花.mp4

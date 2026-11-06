@@ -1,0 +1,2 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+小伙伴,15,17,3,410.64,509.44,98.8,3.0,0.2,8.8;87.12;2.88,3;29;1,9.0;87.0;3.0,-0.2;0.12;-0.12,0.2,0.147,/Volumes/Extreme SSD/Video/Chinese1949-66/小伙伴.mp4

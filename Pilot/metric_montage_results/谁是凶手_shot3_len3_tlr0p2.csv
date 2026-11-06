@@ -1,0 +1,2 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+谁是凶手,261,263,3,3044.622,3062.424,17.802,3.0,0.2,5.881;8.801;3.12,2;3;1,6.0;9.0;3.0,-0.119;-0.199;0.12,0.199,0.146,/Volumes/Extreme SSD/Video/Chinese1949-66/谁是凶手.mp4

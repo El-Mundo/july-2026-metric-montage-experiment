@@ -1,0 +1,2 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+杜十娘,55,57,3,1789.443,1891.697,102.254,3.0,0.2,12.082;45.006;45.166,4;15;15,12.0;45.0;45.0,0.082;0.006;0.166,0.166,0.085,/Volumes/Extreme SSD/Video/Chinese1949-66/杜十娘.mp4

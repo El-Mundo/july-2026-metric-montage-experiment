@@ -1,0 +1,3 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+湖上的斗争,128,130,3,355.249,367.451,12.202,3.0,0.2,3.0;3.12;6.081,1;1;2,3.0;3.0;6.0,0.0;0.12;0.081,0.12,0.067,/Volumes/Extreme SSD/Video/Chinese1949-66/湖上的斗争.mp4
+湖上的斗争,722,725,4,3006.695,3045.38,38.685,3.0,0.2,3.0;3.0;23.843;8.841,1;1;8;3,3.0;3.0;24.0;9.0,0.0;0.0;-0.157;-0.159,0.159,0.079,/Volumes/Extreme SSD/Video/Chinese1949-66/湖上的斗争.mp4

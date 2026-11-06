@@ -1,0 +1,2 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+欢天喜地,174,176,3,2076.76,2103.68,26.92,3.0,0.2,8.96;12.08;5.88,3;4;2,9.0;12.0;6.0,-0.04;0.08;-0.12,0.12,0.08,/Volumes/Extreme SSD/Video/Chinese1949-66/欢天喜地.mp4

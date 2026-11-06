@@ -1,0 +1,4 @@
+.DS_Store
+.build/
+matplotlib_cache/
+/Pilot/external/

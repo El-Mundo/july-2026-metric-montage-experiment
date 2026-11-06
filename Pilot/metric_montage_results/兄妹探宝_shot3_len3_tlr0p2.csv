@@ -1,0 +1,2 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+兄妹探宝,661,663,3,4498.628,4528.312,29.684,3.0,0.2,3.0;20.843;5.841,1;7;2,3.0;21.0;6.0,0.0;-0.157;-0.159,0.159,0.105,/Volumes/Extreme SSD/Video/Chinese1949-66/兄妹探宝.mp4

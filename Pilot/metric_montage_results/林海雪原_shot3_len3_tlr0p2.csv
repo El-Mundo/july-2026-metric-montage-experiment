@@ -1,0 +1,2 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+林海雪原,37,39,3,603.724,744.343,140.619,3.0,0.2,14.882;92.813;32.925,5;31;11,15.0;93.0;33.0,-0.118;-0.187;-0.075,0.187,0.127,/Volumes/Extreme SSD/Video/Chinese1949-66/林海雪原.mp4

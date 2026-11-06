@@ -1,0 +1,2 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+一天一夜,202,204,3,2400.638,2421.601,20.963,3.0,0.2,12.002;5.921;3.04,4;2;1,12.0;6.0;3.0,0.002;-0.079;0.04,0.079,0.04,/Volumes/Extreme SSD/Video/Chinese1949-66/一天一夜.mp4

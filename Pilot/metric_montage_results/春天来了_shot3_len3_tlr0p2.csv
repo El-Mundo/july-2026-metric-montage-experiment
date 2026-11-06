@@ -1,0 +1,2 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+春天来了,31,33,3,633.4,690.24,56.84,3.0,0.2,12.0;21.0;23.84,4;7;8,12.0;21.0;24.0,0.0;0.0;-0.16,0.16,0.053,/Volumes/Extreme SSD/Video/Chinese1949-66/春天来了.mp4

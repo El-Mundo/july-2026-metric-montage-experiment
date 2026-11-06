@@ -1,0 +1,2 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+红色邮路,422,424,3,2097.004,2192.977,95.973,3.0,0.2,3.0;63.089;29.884,1;21;10,3.0;63.0;30.0,0.0;0.089;-0.116,0.116,0.068,/Volumes/Extreme SSD/Video/Chinese1949-66/红色邮路.mp4

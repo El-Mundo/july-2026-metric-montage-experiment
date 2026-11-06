@@ -1,0 +1,3 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+一日千里,36,38,3,219.31,279.078,59.768,3.0,0.2,20.923;11.882;26.964,7;4;9,21.0;12.0;27.0,-0.077;-0.118;-0.036,0.118,0.077,/Volumes/Extreme SSD/Video/Chinese1949-66/一日千里.mp4
+一日千里,307,309,3,3963.779,4029.588,65.809,3.0,0.2,18.002;3.0;44.806,6;1;15,18.0;3.0;45.0,0.002;0.0;-0.194,0.194,0.065,/Volumes/Extreme SSD/Video/Chinese1949-66/一日千里.mp4

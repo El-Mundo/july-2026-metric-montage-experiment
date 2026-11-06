@@ -1,0 +1,2 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+祝福,350,352,3,5211.469,5349.528,138.059,3.0,0.2,41.886;12.042;84.131,14;4;28,42.0;12.0;84.0,-0.114;0.042;0.131,0.131,0.096,/Volumes/Extreme SSD/Video/Chinese1949-66/祝福.mp4

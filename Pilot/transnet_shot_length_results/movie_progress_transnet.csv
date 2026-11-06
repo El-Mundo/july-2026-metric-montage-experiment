@@ -1,0 +1,6 @@
+﻿film,status,video_path,file_size,mtime,shot_count,error,started_at,finished_at,detector,threshold,fps,frame_count
+一场风波,complete,/Volumes/Extreme SSD/Video/Chinese1949-66/一场风波.mp4,355601385,1680894960000000000,425,,2026-07-08T18:38:28+00:00,2026-07-08T18:56:27+00:00,TransNet V2,0.5,25.0,125394
+以革命的名义,complete,/Volumes/Extreme SSD/Video/Chinese1949-66/以革命的名义.mp4,631539212,1680988864000000000,279,,2026-07-09T07:28:56+00:00,2026-07-09T07:57:36+00:00,TransNet V2,0.5,25.0,222759
+农奴,complete,/Volumes/Extreme SSD/Video/Chinese1949-66/农奴.mp4,353347813,1681064222000000000,378,,2026-07-09T07:57:36+00:00,2026-07-09T08:13:19+00:00,TransNet V2,0.5,24.996623556334548,132518
+冰山上的来客,complete,/Volumes/Extreme SSD/Video/Chinese1949-66/冰山上的来客.mp4,446344166,1681064262000000000,643,,2026-07-09T08:13:19+00:00,2026-07-09T08:32:11+00:00,TransNet V2,0.5,24.996572719503977,152250
+冲破黎明前的黑暗,processing,/Volumes/Extreme SSD/Video/Chinese1949-66/冲破黎明前的黑暗.mp4,398961303,1681245224000000000,0,,2026-07-09T08:32:11+00:00,,TransNet V2,0.5,,0

@@ -1,0 +1,3 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+浪涛滚滚,183,185,3,2840.035,2857.637,17.602,3.0,0.2,5.841;5.801;5.961,2;2;2,6.0;6.0;6.0,-0.159;-0.199;-0.039,0.199,0.132,/Volumes/Extreme SSD/Video/Chinese1949-66/浪涛滚滚.mp4
+浪涛滚滚,346,350,5,5299.537,5332.862,33.325,3.0,0.2,3.08;12.122;6.041;6.041;6.041,1;4;2;2;2,3.0;12.0;6.0;6.0;6.0,0.08;0.122;0.041;0.041;0.041,0.122,0.065,/Volumes/Extreme SSD/Video/Chinese1949-66/浪涛滚滚.mp4

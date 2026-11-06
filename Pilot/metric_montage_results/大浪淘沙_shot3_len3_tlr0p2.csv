@@ -1,0 +1,2 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+大浪淘沙,702,704,3,6159.193,6213.08,53.887,3.0,0.2,5.881;3.16;44.846,2;1;15,6.0;3.0;45.0,-0.119;0.16;-0.154,0.16,0.144,/Volumes/Extreme SSD/Video/Chinese1949-66/大浪淘沙.mp4

@@ -1,0 +1,2 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+鲁班的传说,28,30,3,1152.2,1413.24,261.04,3.0,0.2,2.88;249.12;9.04,1;83;3,3.0;249.0;9.0,-0.12;0.12;0.04,0.12,0.093,/Volumes/Extreme SSD/Video/Chinese1949-66/鲁班的传说.mp4

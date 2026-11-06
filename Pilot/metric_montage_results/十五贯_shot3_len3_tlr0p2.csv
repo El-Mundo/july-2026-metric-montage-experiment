@@ -1,0 +1,2 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+十五贯,139,141,3,3433.705,3496.393,62.688,3.0,0.2,9.001;11.802;41.886,3;4;14,9.0;12.0;42.0,0.001;-0.198;-0.114,0.198,0.104,/Volumes/Extreme SSD/Video/Chinese1949-66/十五贯.mp4

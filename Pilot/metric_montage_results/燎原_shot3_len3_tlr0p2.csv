@@ -1,0 +1,2 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+燎原,110,112,3,4571.415,4889.338,317.923,3.0,0.2,242.833;69.169;5.921,81;23;2,243.0;69.0;6.0,-0.167;0.169;-0.079,0.169,0.138,/Volumes/Extreme SSD/Video/Chinese1949-66/燎原.mp4

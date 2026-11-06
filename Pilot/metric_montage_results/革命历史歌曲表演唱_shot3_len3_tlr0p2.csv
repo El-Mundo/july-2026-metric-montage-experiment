@@ -1,0 +1,2 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+革命历史歌曲表演唱,11,13,3,216.99,235.032,18.042,3.0,0.2,5.881;6.001;6.161,2;2;2,6.0;6.0;6.0,-0.119;0.001;0.161,0.161,0.094,/Volumes/Extreme SSD/Video/Chinese1949-66/革命历史歌曲表演唱.mp4

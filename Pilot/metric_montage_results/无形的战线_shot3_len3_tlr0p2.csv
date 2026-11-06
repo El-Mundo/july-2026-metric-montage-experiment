@@ -1,0 +1,2 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+无形的战线,34,36,3,144.58,162.582,18.002,3.0,0.2,6.001;3.0;9.001,2;1;3,6.0;3.0;9.0,0.001;0.0;0.001,0.001,0.001,/Volumes/Extreme SSD/Video/Chinese1949-66/无形的战线.mp4

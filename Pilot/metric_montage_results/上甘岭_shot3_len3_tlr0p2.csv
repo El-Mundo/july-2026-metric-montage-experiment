@@ -1,0 +1,6 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+上甘岭,1711,1713,3,4632.027,4646.749,14.722,3.0,0.2,2.88;2.92;8.921,1;1;3,3.0;3.0;9.0,-0.12;-0.08;-0.079,0.12,0.093,/Volumes/Extreme SSD/Video/Chinese1949-66/上甘岭.mp4
+上甘岭,1966,1968,3,5388.569,5403.491,14.922,3.0,0.2,2.92;3.0;9.001,1;1;3,3.0;3.0;9.0,-0.08;0.0;0.001,0.08,0.027,/Volumes/Extreme SSD/Video/Chinese1949-66/上甘岭.mp4
+上甘岭,2007,2009,3,5506.425,5530.428,24.003,3.0,0.2,3.0;15.002;6.001,1;5;2,3.0;15.0;6.0,0.0;0.002;0.001,0.002,0.001,/Volumes/Extreme SSD/Video/Chinese1949-66/上甘岭.mp4
+上甘岭,2118,2120,3,5914.96,5923.962,9.002,3.0,0.2,3.0;3.0;3.0,1;1;1,3.0;3.0;3.0,0.0;0.0;0.0,0.0,0.0,/Volumes/Extreme SSD/Video/Chinese1949-66/上甘岭.mp4
+上甘岭,2522,2524,3,6871.05,6882.811,11.761,3.0,0.2,5.881;2.96;2.92,2;1;1,6.0;3.0;3.0,-0.119;-0.04;-0.08,0.119,0.08,/Volumes/Extreme SSD/Video/Chinese1949-66/上甘岭.mp4

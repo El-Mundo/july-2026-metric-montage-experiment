@@ -1,0 +1,2 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+南海潮,13,15,3,281.164,314.169,33.005,3.0,0.2,2.875;26.962;3.167,1;9;1,3.0;27.0;3.0,-0.125;-0.038;0.167,0.167,0.11,/Volumes/Extreme SSD/Video/Chinese1949-66/南海潮.mp4

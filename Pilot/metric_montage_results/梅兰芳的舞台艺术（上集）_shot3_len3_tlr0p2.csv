@@ -1,0 +1,2 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+梅兰芳的舞台艺术（上集）,84,86,3,1095.507,1152.475,56.968,3.0,0.2,6.161;2.92;47.886,2;1;16,6.0;3.0;48.0,0.161;-0.08;-0.114,0.161,0.118,/Volumes/Extreme SSD/Video/Chinese1949-66/梅兰芳的舞台艺术（上集）.mp4

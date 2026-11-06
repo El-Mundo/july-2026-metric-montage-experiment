@@ -1,0 +1,2 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+黑山阻击战,67,70,4,1258.847,1316.094,57.247,3.0,0.2,24.003;9.041;21.043;3.16,8;3;7;1,24.0;9.0;21.0;3.0,0.003;0.041;0.043;0.16,0.16,0.062,/Volumes/Extreme SSD/Video/Chinese1949-66/黑山阻击战.mp4

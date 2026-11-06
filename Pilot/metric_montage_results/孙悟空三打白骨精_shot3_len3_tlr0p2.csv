@@ -1,0 +1,3 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+孙悟空三打白骨精,293,296,4,3211.509,3238.193,26.684,3.0,0.2,5.961;3.0;5.881;11.842,2;1;2;4,6.0;3.0;6.0;12.0,-0.039;0.0;-0.119;-0.158,0.158,0.079,/Volumes/Extreme SSD/Video/Chinese1949-66/孙悟空三打白骨精.mp4
+孙悟空三打白骨精,499,501,3,5477.972,5499.335,21.363,3.0,0.2,9.121;6.121;6.121,3;2;2,9.0;6.0;6.0,0.121;0.121;0.121,0.121,0.121,/Volumes/Extreme SSD/Video/Chinese1949-66/孙悟空三打白骨精.mp4

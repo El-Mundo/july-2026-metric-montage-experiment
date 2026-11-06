@@ -1,0 +1,2 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+一颗红心,102,104,3,2778.706,2820.752,42.046,3.0,0.2,6.081;24.083;11.882,2;8;4,6.0;24.0;12.0,0.081;0.083;-0.118,0.118,0.094,/Volumes/Extreme SSD/Video/Chinese1949-66/一颗红心.mp4

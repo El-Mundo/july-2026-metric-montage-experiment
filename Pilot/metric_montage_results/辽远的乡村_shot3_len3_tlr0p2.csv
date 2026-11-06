@@ -1,0 +1,2 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+辽远的乡村,205,207,3,4595.04,4624.8,29.76,3.0,0.2,20.84;2.84;6.08,7;1;2,21.0;3.0;6.0,-0.16;-0.16;0.08,0.16,0.133,/Volumes/Extreme SSD/Video/Chinese1949-66/辽远的乡村.mp4

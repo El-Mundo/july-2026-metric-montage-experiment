@@ -1,0 +1,2 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+碧空银花,398,400,3,4025.8,4079.88,54.08,3.0,0.2,5.92;39.0;9.16,2;13;3,6.0;39.0;9.0,-0.08;0.0;0.16,0.16,0.08,/Volumes/Extreme SSD/Video/Chinese1949-66/碧空银花.mp4

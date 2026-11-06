@@ -1,0 +1,3 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+满意不满意,76,78,3,2450.381,2480.266,29.885,3.0,0.2,6.121;14.802;8.961,2;5;3,6.0;15.0;9.0,0.121;-0.198;-0.039,0.198,0.119,/Volumes/Extreme SSD/Video/Chinese1949-66/满意不满意.mp4
+满意不满意,129,132,4,3025.501,3049.385,23.884,3.0,0.2,5.921;2.96;11.842;3.16,2;1;4;1,6.0;3.0;12.0;3.0,-0.079;-0.04;-0.158;0.16,0.16,0.109,/Volumes/Extreme SSD/Video/Chinese1949-66/满意不满意.mp4

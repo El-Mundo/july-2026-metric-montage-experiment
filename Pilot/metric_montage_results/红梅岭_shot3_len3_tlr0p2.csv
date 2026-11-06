@@ -1,0 +1,6 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+红梅岭,492,494,3,2115.693,2124.694,9.001,3.0,0.2,3.0;3.0;3.0,1;1;1,3.0;3.0;3.0,0.0;0.0;0.0,0.0,0.0,/Volumes/Extreme SSD/Video/Chinese1949-66/红梅岭.mp4
+红梅岭,821,823,3,3462.039,3471.041,9.002,3.0,0.2,3.0;3.0;3.0,1;1;1,3.0;3.0;3.0,0.0;0.0;0.0,0.0,0.0,/Volumes/Extreme SSD/Video/Chinese1949-66/红梅岭.mp4
+红梅岭,875,877,3,3595.578,3604.579,9.001,3.0,0.2,3.0;3.0;3.0,1;1;1,3.0;3.0;3.0,0.0;0.0;0.0,0.0,0.0,/Volumes/Extreme SSD/Video/Chinese1949-66/红梅岭.mp4
+红梅岭,1064,1066,3,4091.887,4103.848,11.961,3.0,0.2,3.0;5.961;3.0,1;2;1,3.0;6.0;3.0,0.0;-0.039;0.0,0.039,0.013,/Volumes/Extreme SSD/Video/Chinese1949-66/红梅岭.mp4
+红梅岭,1105,1110,6,4237.827,4279.633,41.806,3.0,0.2,5.801;6.001;6.001;9.161;2.84;12.002,2;2;2;3;1;4,6.0;6.0;6.0;9.0;3.0;12.0,-0.199;0.001;0.001;0.161;-0.16;0.002,0.199,0.087,/Volumes/Extreme SSD/Video/Chinese1949-66/红梅岭.mp4

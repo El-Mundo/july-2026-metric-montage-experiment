@@ -1,0 +1,3 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+青山恋,195,197,3,3507.508,3528.431,20.923,3.0,0.2,2.84;6.001;12.082,1;2;4,3.0;6.0;12.0,-0.16;0.001;0.082,0.16,0.081,/Volumes/Extreme SSD/Video/Chinese1949-66/青山恋.mp4
+青山恋,285,288,4,5368.676,5401.441,32.765,3.0,0.2,8.921;6.121;8.881;8.841,3;2;3;3,9.0;6.0;9.0;9.0,-0.079;0.121;-0.119;-0.159,0.159,0.12,/Volumes/Extreme SSD/Video/Chinese1949-66/青山恋.mp4

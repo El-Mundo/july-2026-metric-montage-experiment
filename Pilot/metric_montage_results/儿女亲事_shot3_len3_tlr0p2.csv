@@ -1,0 +1,2 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+儿女亲事,217,219,3,2966.608,3008.693,42.085,3.0,0.2,14.802;15.122;12.162,5;5;4,15.0;15.0;12.0,-0.198;0.122;0.162,0.198,0.161,/Volumes/Extreme SSD/Video/Chinese1949-66/儿女亲事.mp4

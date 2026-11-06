@@ -1,0 +1,6 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+箭杆河边,40,42,3,361.011,373.013,12.002,3.0,0.2,3.0;6.001;3.0,1;2;1,3.0;6.0;3.0,0.0;0.001;0.0,0.001,0.0,/Volumes/Extreme SSD/Video/Chinese1949-66/箭杆河边.mp4
+箭杆河边,244,246,3,1115.117,1124.118,9.001,3.0,0.2,3.0;3.0;3.0,1;1;1,3.0;3.0;3.0,0.0;0.0;0.0,0.0,0.0,/Volumes/Extreme SSD/Video/Chinese1949-66/箭杆河边.mp4
+箭杆河边,296,299,4,1363.832,1378.834,15.002,3.0,0.2,3.0;6.001;3.0;3.0,1;2;1;1,3.0;6.0;3.0;3.0,0.0;0.001;0.0;0.0,0.001,0.0,/Volumes/Extreme SSD/Video/Chinese1949-66/箭杆河边.mp4
+箭杆河边,454,456,3,2714.742,2738.745,24.003,3.0,0.2,3.0;6.001;15.002,1;2;5,3.0;6.0;15.0,0.0;0.001;0.002,0.002,0.001,/Volumes/Extreme SSD/Video/Chinese1949-66/箭杆河边.mp4
+箭杆河边,483,485,3,3014.944,3107.677,92.733,3.0,0.2,35.925;17.803;39.005,12;6;13,36.0;18.0;39.0,-0.075;-0.197;0.005,0.197,0.092,/Volumes/Extreme SSD/Video/Chinese1949-66/箭杆河边.mp4

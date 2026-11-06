@@ -1,0 +1,2 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+地下尖兵,347,350,4,3372.615,3411.54,38.925,3.0,0.2,5.961;8.961;21.003;3.0,2;3;7;1,6.0;9.0;21.0;3.0,-0.039;-0.039;0.003;0.0,0.039,0.02,/Volumes/Extreme SSD/Video/Chinese1949-66/地下尖兵.mp4

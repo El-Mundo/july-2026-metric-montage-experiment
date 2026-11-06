@@ -1,0 +1,2 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+徐秋影案件,167,169,3,2938.088,2985.895,47.807,3.0,0.2,8.841;20.963;18.003,3;7;6,9.0;21.0;18.0,-0.159;-0.037;0.003,0.159,0.066,/Volumes/Extreme SSD/Video/Chinese1949-66/徐秋影案件.mp4

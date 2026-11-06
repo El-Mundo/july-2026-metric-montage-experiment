@@ -1,0 +1,2 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+小兵张嘎,698,700,3,5970.11,6000.114,30.004,3.0,0.2,3.0;21.003;6.001,1;7;2,3.0;21.0;6.0,0.0;0.003;0.001,0.003,0.001,/Volumes/Extreme SSD/Video/Chinese1949-66/小兵张嘎.mp4

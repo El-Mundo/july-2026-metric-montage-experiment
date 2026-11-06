@@ -1,0 +1,4 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+春风吹到诺敏河,681,683,3,1853.699,1862.7,9.001,3.0,0.2,3.0;3.0;3.0,1;1;1,3.0;3.0;3.0,0.0;0.0;0.0,0.0,0.0,/Volumes/Extreme SSD/Video/Chinese1949-66/春风吹到诺敏河.mp4
+春风吹到诺敏河,866,869,4,2378.852,2399.855,21.003,3.0,0.2,6.041;6.001;5.961;3.0,2;2;2;1,6.0;6.0;6.0;3.0,0.041;0.001;-0.039;0.0,0.041,0.02,/Volumes/Extreme SSD/Video/Chinese1949-66/春风吹到诺敏河.mp4
+春风吹到诺敏河,1986,1988,3,5356.587,5368.509,11.922,3.0,0.2,2.96;3.0;5.961,1;1;2,3.0;3.0;6.0,-0.04;0.0;-0.039,0.04,0.026,/Volumes/Extreme SSD/Video/Chinese1949-66/春风吹到诺敏河.mp4

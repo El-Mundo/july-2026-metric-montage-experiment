@@ -1,0 +1,5 @@
+This is the first techical experiment conducted on the database, which happened in July 2026.
+
+This experiment failed because the default pipeline of Pyscenedetect generated highly inaccurate results on B&W films.
+
+This repository is now replaced and extended by the October-2026 pilot technical test, which has been compared against human-annotated results and was found to generate accurate detections (43 correct against 45 human-annotated detections, tolerance 80ms) for both colored and B&W films.

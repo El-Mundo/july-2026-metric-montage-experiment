@@ -1,0 +1,2 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+暴风骤雨,39,41,3,225.311,291.32,66.009,3.0,0.2,12.122;50.967;2.92,4;17;1,12.0;51.0;3.0,0.122;-0.033;-0.08,0.122,0.078,/Volumes/Extreme SSD/Video/Chinese1949-66/暴风骤雨.mp4

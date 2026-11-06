@@ -1,0 +1,2 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+猛河的黎明,160,162,3,3426.92,3532.12,105.2,3.0,0.2,2.84;24.2;78.16,1;8;26,3.0;24.0;78.0,-0.16;0.2;0.16,0.2,0.173,/Volumes/Extreme SSD/Video/Chinese1949-66/猛河的黎明.mp4

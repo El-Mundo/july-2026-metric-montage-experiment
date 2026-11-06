@@ -1,0 +1,2 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+春满人间,405,407,3,4621.08,4669.12,48.04,3.0,0.2,12.12;27.12;8.8,4;9;3,12.0;27.0;9.0,0.12;0.12;-0.2,0.2,0.147,/Volumes/Extreme SSD/Video/Chinese1949-66/春满人间.mp4

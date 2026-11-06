@@ -1,0 +1,3 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+斗诗亭,306,308,3,1388.069,1397.446,9.377,3.0,0.2,3.125;3.125;3.125,1;1;1,3.0;3.0;3.0,0.125;0.125;0.125,0.125,0.125,/Volumes/Extreme SSD/Video/Chinese1949-66/斗诗亭.mp4
+斗诗亭,496,498,3,2300.905,2310.282,9.377,3.0,0.2,3.125;3.125;3.125,1;1;1,3.0;3.0;3.0,0.125;0.125;0.125,0.125,0.125,/Volumes/Extreme SSD/Video/Chinese1949-66/斗诗亭.mp4

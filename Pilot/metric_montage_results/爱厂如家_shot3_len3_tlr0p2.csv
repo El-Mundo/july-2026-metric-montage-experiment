@@ -1,0 +1,2 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+爱厂如家,27,29,3,361.48,424.44,62.96,3.0,0.2,9.04;33.04;20.88,3;11;7,9.0;33.0;21.0,0.04;0.04;-0.12,0.12,0.067,/Volumes/Extreme SSD/Video/Chinese1949-66/爱厂如家.mp4

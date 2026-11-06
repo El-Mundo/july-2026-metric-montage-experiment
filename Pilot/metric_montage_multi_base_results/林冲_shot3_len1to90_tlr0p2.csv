@@ -1,0 +1,10 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,tolerance_sec,all_matching_bases,matching_base_count,base_ambiguity_flag,best_base_length_sec,best_durations_sec,best_multiples,best_expected_sec,best_errors_sec,best_max_abs_error_sec,best_mean_abs_error_sec,best_max_multiple,best_mean_multiple,compact_candidate_flag,low_information_base_flag,priority_score,video_path
+林冲,115,118,4,1156.84,1173.96,17.12,0.2,1.0,1,False,1.0,8.12;4.92;3.16;0.92,8;5;3;1,8.0;5.0;3.0;1.0,0.12;-0.08;0.16;-0.08,0.16,0.11,8,4.25,False,True,-20.35,/Volumes/Extreme SSD/Video/Chinese1949-66/林冲.mp4
+林冲,263,265,3,4449.56,4464.36,14.8,0.2,1.0,1,False,1.0,7.92;4.0;2.88,8;4;3,8.0;4.0;3.0,-0.08;0.0;-0.12,0.12,0.067,8,5.0,False,True,-28.875,/Volumes/Extreme SSD/Video/Chinese1949-66/林冲.mp4
+林冲,32,35,4,302.04,331.76,29.72,0.2,1.0,1,False,1.0,6.88;1.92;5.96;14.96,7;2;6;15,7.0;2.0;6.0;15.0,-0.12;-0.08;-0.04;-0.04,0.12,0.07,15,7.5,False,True,-32.95,/Volumes/Extreme SSD/Video/Chinese1949-66/林冲.mp4
+林冲,70,72,3,546.24,567.4,21.16,0.2,1.0,1,False,1.0,3.88;14.2;3.08,4;14;3,4.0;14.0;3.0,-0.12;0.2;0.08,0.2,0.133,14,7.0,False,True,-43.325,/Volumes/Extreme SSD/Video/Chinese1949-66/林冲.mp4
+林冲,218,220,3,3558.08,3607.16,49.08,0.2,1.0,1,False,1.0,6.08;21.08;21.92,6;21;22,6.0;21.0;22.0,0.08;0.08;-0.08,0.08,0.08,22,16.333,False,True,-56.8,/Volumes/Extreme SSD/Video/Chinese1949-66/林冲.mp4
+林冲,201,203,3,3278.96,3317.16,38.2,0.2,1.0,1,False,1.0,8.8;8.2;21.2,9;8;21,9.0;8.0;21.0,-0.2;0.2;0.2,0.2,0.2,21,12.667,False,True,-59.0,/Volumes/Extreme SSD/Video/Chinese1949-66/林冲.mp4
+林冲,251,253,3,4017.08,4069.48,52.4,0.2,1.0,1,False,1.0,22.04;9.16;21.2,22;9;21,22.0;9.0;21.0,0.04;0.16;0.2,0.2,0.133,22,17.333,False,True,-59.325,/Volumes/Extreme SSD/Video/Chinese1949-66/林冲.mp4
+林冲,144,146,3,1700.04,1758.28,58.24,0.2,1.0,1,False,1.0,25.0;10.2;23.04,25;10;23,25.0;10.0;23.0,0.0;0.2;0.04,0.2,0.08,25,19.333,False,True,-64.0,/Volumes/Extreme SSD/Video/Chinese1949-66/林冲.mp4
+林冲,270,273,4,4689.04,5043.4,354.36,0.2,1.0,1,False,1.0,85.16;20.88;2.12;246.2,85;21;2;246,85.0;21.0;2.0;246.0,0.16;-0.12;0.12;0.2,0.2,0.15,246,88.5,False,True,-522.75,/Volumes/Extreme SSD/Video/Chinese1949-66/林冲.mp4

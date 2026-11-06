@@ -1,0 +1,2 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+打金枝,78,80,3,2692.24,2887.32,195.08,3.0,0.2,9.08;21.12;164.88,3;7;55,9.0;21.0;165.0,0.08;0.12;-0.12,0.12,0.107,/Volumes/Extreme SSD/Video/Chinese1949-66/打金枝.mp4

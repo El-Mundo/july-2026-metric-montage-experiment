@@ -1,0 +1,2 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+淮上人家,58,60,3,1516.52,1582.4,65.88,3.0,0.2,24.0;38.96;2.92,8;13;1,24.0;39.0;3.0,0.0;-0.04;-0.08,0.08,0.04,/Volumes/Extreme SSD/Video/Chinese1949-66/淮上人家.mp4

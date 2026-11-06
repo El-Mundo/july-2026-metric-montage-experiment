@@ -1,0 +1,4 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+勐垅沙,196,198,3,2079.45,2112.615,33.165,3.0,0.2,12.122;11.922;9.121,4;4;3,12.0;12.0;9.0,0.122;-0.078;0.121,0.122,0.107,/Volumes/Extreme SSD/Video/Chinese1949-66/勐垅沙.mp4
+勐垅沙,323,325,3,3145.559,3160.361,14.802,3.0,0.2,3.04;2.96;8.801,1;1;3,3.0;3.0;9.0,0.04;-0.04;-0.199,0.199,0.093,/Volumes/Extreme SSD/Video/Chinese1949-66/勐垅沙.mp4
+勐垅沙,442,444,3,4414.615,4432.698,18.083,3.0,0.2,8.881;6.121;3.08,3;2;1,9.0;6.0;3.0,-0.119;0.121;0.08,0.121,0.107,/Volumes/Extreme SSD/Video/Chinese1949-66/勐垅沙.mp4

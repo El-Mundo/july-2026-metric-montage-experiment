@@ -1,0 +1,2 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+红孩子,340,342,3,5633.88,5708.68,74.8,3.0,0.2,26.88;17.92;30.0,9;6;10,27.0;18.0;30.0,-0.12;-0.08;0.0,0.12,0.067,/Volumes/Extreme SSD/Video/Chinese1949-66/红孩子.mp4

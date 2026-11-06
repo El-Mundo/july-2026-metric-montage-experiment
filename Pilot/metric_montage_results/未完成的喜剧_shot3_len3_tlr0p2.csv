@@ -1,0 +1,2 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+未完成的喜剧,190,192,3,2619.587,2676.514,56.927,3.0,0.2,26.804;18.082;12.042,9;6;4,27.0;18.0;12.0,-0.196;0.082;0.042,0.196,0.107,/Volumes/Extreme SSD/Video/Chinese1949-66/未完成的喜剧.mp4

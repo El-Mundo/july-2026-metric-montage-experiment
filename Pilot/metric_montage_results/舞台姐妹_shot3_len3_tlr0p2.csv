@@ -1,0 +1,5 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+舞台姐妹,144,147,4,1698.71,1785.962,87.252,3.0,0.2,21.043;9.161;30.084;26.964,7;3;10;9,21.0;9.0;30.0;27.0,0.043;0.161;0.084;-0.036,0.161,0.081,/Volumes/Extreme SSD/Video/Chinese1949-66/舞台姐妹.mp4
+舞台姐妹,319,323,5,4037.787,4124.839,87.052,3.0,0.2,8.961;9.041;26.884;39.005;3.16,3;3;9;13;1,9.0;9.0;27.0;39.0;3.0,-0.039;0.041;-0.116;0.005;0.16,0.16,0.072,/Volumes/Extreme SSD/Video/Chinese1949-66/舞台姐妹.mp4
+舞台姐妹,494,496,3,5960.328,5996.533,36.205,3.0,0.2,18.162;9.001;9.041,6;3;3,18.0;9.0;9.0,0.162;0.001;0.041,0.162,0.068,/Volumes/Extreme SSD/Video/Chinese1949-66/舞台姐妹.mp4
+舞台姐妹,503,505,3,6082.264,6136.192,53.928,3.0,0.2,9.041;12.042;32.844,3;4;11,9.0;12.0;33.0,0.041;0.042;-0.156,0.156,0.08,/Volumes/Extreme SSD/Video/Chinese1949-66/舞台姐妹.mp4

@@ -1,0 +1,2 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+家,223,225,3,3819.45,3900.341,80.891,3.0,0.2,71.89;6.081;2.92,24;2;1,72.0;6.0;3.0,-0.11;0.081;-0.08,0.11,0.09,/Volumes/Extreme SSD/Video/Chinese1949-66/家.mp4

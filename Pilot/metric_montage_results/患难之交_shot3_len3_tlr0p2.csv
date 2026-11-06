@@ -1,0 +1,2 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+患难之交,328,331,4,4706.24,4772.2,65.96,3.0,0.2,9.2;2.96;5.96;47.84,3;1;2;16,9.0;3.0;6.0;48.0,0.2;-0.04;-0.04;-0.16,0.2,0.11,/Volumes/Extreme SSD/Video/Chinese1949-66/患难之交.mp4

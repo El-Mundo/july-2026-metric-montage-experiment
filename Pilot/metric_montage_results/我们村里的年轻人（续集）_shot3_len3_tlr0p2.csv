@@ -1,0 +1,2 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+我们村里的年轻人（续集）,130,132,3,1451.993,1481.596,29.603,3.0,0.2,5.841;8.881;14.882,2;3;5,6.0;9.0;15.0,-0.159;-0.119;-0.118,0.159,0.132,/Volumes/Extreme SSD/Video/Chinese1949-66/我们村里的年轻人（续集）.mp4

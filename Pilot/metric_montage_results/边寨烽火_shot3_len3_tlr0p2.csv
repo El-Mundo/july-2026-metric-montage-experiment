@@ -1,0 +1,2 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+边寨烽火,81,83,3,1262.08,1274.24,12.16,3.0,0.2,6.12;3.0;3.04,2;1;1,6.0;3.0;3.0,0.12;0.0;0.04,0.12,0.053,/Volumes/Extreme SSD/Video/Chinese1949-66/边寨烽火.mp4

@@ -1,0 +1,2 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+三进山城,240,242,3,1712.312,1736.396,24.084,3.0,0.2,9.121;11.962;3.0,3;4;1,9.0;12.0;3.0,0.121;-0.038;0.0,0.121,0.053,/Volumes/Extreme SSD/Video/Chinese1949-66/三进山城.mp4

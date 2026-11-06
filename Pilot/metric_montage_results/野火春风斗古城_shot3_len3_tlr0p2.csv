@@ -1,0 +1,2 @@
+﻿film,start_shot,end_shot,shot_count,start_sec,end_sec,duration_total_sec,base_length_sec,tolerance_sec,durations_sec,multiples,expected_sec,errors_sec,max_abs_error_sec,mean_abs_error_sec,video_path
+野火春风斗古城,149,151,3,5737.007,5868.865,131.858,3.0,0.2,95.853;6.081;29.924,32;2;10,96.0;6.0;30.0,-0.147;0.081;-0.076,0.147,0.101,/Volumes/Extreme SSD/Video/Chinese1949-66/野火春风斗古城.mp4
